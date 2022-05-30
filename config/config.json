@@ -1,0 +1,25 @@
+{
+  "development": {
+    "username": "jonathan",
+    "password": "Xboxlive13220.@",
+    "database": "safe_pets_appli",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "mobileAPI",
+    "host": "127.0.0.1",
+    "port":3306,
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "mobileAPI",
+    "host": "127.0.0.1",
+    "port":3306,
+    "dialect": "mysql"
+  }
+}
